@@ -1,0 +1,4 @@
+﻿  BS.cpp
+C:\Users\ahmed\Desktop\second1\second\BS.cpp(92,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ahmed\Desktop\second1\second\BS.cpp(50,10): warning C4101: 'age': unreferenced local variable
+  second.vcxproj -> C:\Users\ahmed\Desktop\second1\Debug\second.exe
